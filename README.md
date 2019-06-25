@@ -1,2 +1,1 @@
-# pyclass
-Python examples for CEO program
+These are examples are from the pythonclass
